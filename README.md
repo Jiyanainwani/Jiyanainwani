@@ -1,99 +1,130 @@
-<h1 align="center">Hi 👋, I'm Jiya Nainwani</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=700&lines=Backend+Developer;DSA+Learner;Java+%7C+Python+%7C+MERN;Building+Meaningful+Projects;Always+Learning+Something+New" />
-</p>
+# hey, i'm jiya 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jiyanainwani&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&center=true&vCenter=true&width=650&lines=Backend+Developer;DSA+Learner;Building+Cool+Things;Java+%7C+Python+%7C+Node.js;Always+Debugging+Something..." />
 
----
+<br>
 
-## About Me
+<img src="https://komarev.com/ghpvc/?username=jiyanainwani&label=visitors&color=blueviolet&style=flat" />
 
-* 🎓 B.Tech + M.Tech (IT), IIPS DAVV, Indore
-* 💻 Interested in Backend Development
-* 🌱 Currently learning DSA, System Design, React, and AI Integration
-* 🚀 Building projects to strengthen development skills
-* 📚 Exploring Java, Python, MERN Stack, and FastAPI
+</div>
 
 ---
 
-## Tech Stack
+## 🌸 about me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,javascript,nodejs,express,mongodb,mysql,git,github,linux,vscode" />
-</p>
+```yaml
+name: Jiya Nainwani
+location: Indore, India
+education: B.Tech + M.Tech (IT)
+college: IIPS DAVV
 
----
+currently_learning:
+  - DSA
+  - Backend Development
+  - React
+  - System Design
 
-## GitHub Stats
+interests:
+  - APIs
+  - AI Applications
+  - Full Stack Development
+  - Open Source
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jiyanainwani&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyanainwani&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jiyanainwani&theme=tokyonight" />
-</p>
-
----
-
-## LeetCode
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/jiyanainwani?theme=dark&font=Karma&ext=contest" />
-</p>
+fun_fact:
+  - I enjoy solving bugs more than finding them.
+```
 
 ---
 
-## Featured Projects
+## ⚡ tech arsenal
 
-### BlogVerse
+<div align="center">
 
-* Full-stack blogging platform
-* Authentication and authorization
-* REST APIs
-* MongoDB integration
-* Responsive UI
+<img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,nodejs,express,mongodb,mysql,html,css,git,github,linux,vscode&perline=7" />
 
-### URL Shortener Bot
-
-* Discord bot for generating short URLs
-* MongoDB database integration
-* Backend-focused architecture
+</div>
 
 ---
 
-## Current Goals
+## 📊 github universe
 
-* Solve DSA problems consistently
-* Build production-ready backend projects
-* Learn System Design fundamentals
-* Explore AI-powered web applications
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jiyanainwani&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyanainwani&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=jiyanainwani&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-## Connect With Me
+## 🚀 currently building
 
-<p align="left">
-<a href="jiyanainwani">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+### 📝 BlogVerse
+
+```text
+✓ Authentication
+✓ REST APIs
+✓ MongoDB Integration
+✓ Responsive UI
+✓ Content Management
+```
+
+### 🔗 URL Shortener Bot
+
+```text
+✓ Discord Integration
+✓ MongoDB Storage
+✓ URL Analytics
+✓ Backend Architecture
+```
+
+---
+
+## 🎯 2026 goals
+
+```text
+[ ] 500+ DSA Problems
+[ ] Master React
+[ ] Learn System Design
+[ ] Build AI-powered Projects
+[ ] Land an Amazing Internship
+```
+
+---
+
+## 🌐 let's connect
+
+<div align="center">
 
 <a href="https://github.com/jiyanainwani">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
-</p>
+
+<!-- Add LinkedIn -->
+
+<!--
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+-->
+
+</div>
 
 ---
 
-<p align="center">
-  <b>Build • Learn • Improve • Repeat</b>
-</p>
+<div align="center">
+
+### ✨ build • break • learn • repeat ✨
+
+</div>
