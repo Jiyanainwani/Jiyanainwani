@@ -52,8 +52,7 @@ fun_fact:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Jiyanainwani&theme=tokyonight" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jiyanainwani&theme=tokyo-night" />
+\<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jiyanainwani&theme=tokyo-night" />
 </div>
 
 <br>
