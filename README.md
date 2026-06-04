@@ -52,7 +52,6 @@ fun_fact:
 
 <div align="center">
 
-\<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jiyanainwani&theme=tokyo-night" />
 </div>
 
 <br>
