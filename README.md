@@ -1,6 +1,6 @@
 <div align="center">
 
-# hey, i'm jiya 👋
+# hey, i'm Jiya 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&center=true&vCenter=true&width=650&lines=Backend+Developer;DSA+Learner;Building+Cool+Things;Java+%7C+Python+%7C+Node.js;Always+Debugging+Something..." />
 
@@ -52,9 +52,9 @@ fun_fact:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jiyanainwani&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jiyanainwani&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyanainwani&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyanainwani&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -62,7 +62,7 @@ fun_fact:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=jiyanainwani&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Jiyanainwani&theme=tokyonight&hide_border=true"/>
 
 </div>
 
