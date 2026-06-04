@@ -31,8 +31,8 @@
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jiyanainwani&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyanainwani&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jiyanainwani&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyanainwani&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -40,7 +40,7 @@
 ## GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jiyanainwani&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Jiyanainwani&theme=tokyonight" />
 </p>
 
 ---
@@ -48,7 +48,7 @@
 ## LeetCode
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/jiyanainwani?theme=dark&font=Karma&ext=contest" />
 </p>
 
 ---
